@@ -39,3 +39,5 @@ Lembrando que sou um bot em desenvolvimento e problemas podem ocorrer mas trabal
 | [Tenor](https://tenor.com/gifapi) | API  |v1.0.0|
 | [Twitch](https://dev.twitch.tv/) | API  |v5.0.0|
 | [OpenWeather](https://openweathermap.org/api) | API  |2.5|
+
+[![Run on Repl.it](https://repl.it/badge/github/Zaetic/Nayoi)](https://repl.it/github/Zaetic/Nayoi)
